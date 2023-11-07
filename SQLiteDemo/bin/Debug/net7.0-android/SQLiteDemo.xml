@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SQLiteDemo</name>
+    </assembly>
+    <members>
+        <member name="T:SQLiteDemo.ViewModels.AddUpdateStudentDetailViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:SQLiteDemo.ViewModels.AddUpdateStudentDetailViewModel.FirstName">
+            <inheritdoc cref="F:SQLiteDemo.ViewModels.AddUpdateStudentDetailViewModel._firstName"/>
+        </member>
+        <member name="P:SQLiteDemo.ViewModels.AddUpdateStudentDetailViewModel.LastName">
+            <inheritdoc cref="F:SQLiteDemo.ViewModels.AddUpdateStudentDetailViewModel._lastName"/>
+        </member>
+        <member name="P:SQLiteDemo.ViewModels.AddUpdateStudentDetailViewModel.Email">
+            <inheritdoc cref="F:SQLiteDemo.ViewModels.AddUpdateStudentDetailViewModel._email"/>
+        </member>
+        <member name="F:SQLiteDemo.ViewModels.AddUpdateStudentDetailViewModel.addUpdateStudentCommand">
+            <summary>The backing field for <see cref="P:SQLiteDemo.ViewModels.AddUpdateStudentDetailViewModel.AddUpdateStudentCommand"/>.</summary>
+        </member>
+        <member name="P:SQLiteDemo.ViewModels.AddUpdateStudentDetailViewModel.AddUpdateStudentCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:SQLiteDemo.ViewModels.AddUpdateStudentDetailViewModel.AddUpdateStudent"/>.</summary>
+        </member>
+        <member name="T:SQLiteDemo.ViewModels.StudentListPageViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="F:SQLiteDemo.ViewModels.StudentListPageViewModel.addUpdateStudentCommand">
+            <summary>The backing field for <see cref="P:SQLiteDemo.ViewModels.StudentListPageViewModel.AddUpdateStudentCommand"/>.</summary>
+        </member>
+        <member name="P:SQLiteDemo.ViewModels.StudentListPageViewModel.AddUpdateStudentCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:SQLiteDemo.ViewModels.StudentListPageViewModel.AddUpdateStudent"/>.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.FirstName">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "FirstName" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.LastName">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "LastName" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Email">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Email" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.FirstName">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "FirstName" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.LastName">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "LastName" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Email">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Email" generated properties.</summary>
+        </member>
+    </members>
+</doc>
